@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+o que vc acha que é Natty or Not?
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chatGBT
+LEONARDOAI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+descrição feita pelo chatGBT e o video editado por LeonardoAI
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+irei enviar o acesso
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+cada vez mais realista e imperceptível a identificação da IA 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
